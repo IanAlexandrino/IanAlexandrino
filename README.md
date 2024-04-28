@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E71DC&height=120&section=header"/>
 
-<center>
-
-# 👋 Bem Vindo!
-
-</center>
-
+<div align="center">
+    <h1>
+        👋 Bem Vindo!
+    </h1>
+</div>  
 
 ```
 public class Main {
@@ -43,13 +42,12 @@ public class Main {
 </div>
 
 ---
-
-<center>
-<br></br>
-
-# 🔧 Ferramentas
-
-</center>
+<br>
+<div align="center">
+    <h1>
+        🔧 Ferramentas
+    </h1>
+</div>
 
 <div align="center">
 <br></br>
@@ -75,52 +73,42 @@ public class Main {
 
 ---
 
-<center>
+<br>
+<div align="center">
+    <h1>
+        📊 GitHub Stats
+    </h1>
+</div>
+    
 <br></br>
 
-# 📊 GitHub Stats
-
-</center>
-<br></br>
-
-
-<center>
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanAlexandrino&theme=buefy&show_icons=true)
-
-</center>
-
-<center>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&theme=buefy&show_icons=true)
-
-</center>
-
-<center>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IanAlexandrino&theme=buefy&show_icons=trueF)](https://git.io/streak-stats)
-
-</center>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&theme=buefy&show_icons=true)
+    
+</div>
 
 ---
+<br>
+<div align="center">
+    <h1>
+        💡 Projetos
+    </h1>
+</div>
+<br>
 
-<center>
-<br></br>
-
-# 💡 Projetos
-
-</center>
-<br></br>
-
-<center>
+<div align="center" direction="column">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IanAlexandrino&repo=residencia18&theme=buefy&show_icons=true)](https://github.com/IanAlexandrino/residencia18)
 
-</center>
+</div>
 
-<center>
+<div align="center" direction="column">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=IanAlexandrino&repo=versa&theme=buefy&show_icons=true)](https://github.com/IanAlexandrino/versa)
 
-</center>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E71DC&height=120&section=footer"/>
