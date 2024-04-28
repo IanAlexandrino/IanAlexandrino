@@ -84,8 +84,8 @@ public class Main {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanAlexandrino&theme=buefy&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IanAlexandrino&theme=buefy&show_icons=trueF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanAlexandrino&theme=buefy&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&theme=buefy&show_icons=true)
     
 </div>
