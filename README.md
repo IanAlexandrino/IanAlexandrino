@@ -85,6 +85,11 @@ public class Main {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IanAlexandrino&theme=buefy&show_icons=trueF)](https://git.io/streak-stats)
+    
+</div>
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanAlexandrino&theme=buefy&show_icons=true)
     
 </div>
