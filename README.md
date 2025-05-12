@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E71DC&height=120&section=header"/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" style="padding: 0 20px">
   <img 
     src="https://readme-typing-svg.herokuapp.com/?color=8E71DC&size=25&center=false&vCenter=true&width=1000&lines=Ian+Rodrigues+Alexandrino;Be+Welcome!+:%29"
     alt="Typing SVG">
 </a>
 
 <!-- Informações com emojis alinhadas à esquerda -->
-<div style="text-align: left; padding: 20px 0;">
+<div style="text-align: left; padding: 20px 20px;">
   <ul>
     <li>💻 <strong>Back-End</strong> Developer - MX2TECH</li>
     <li>🎓 <strong>Graduating</strong> in Information Systems - UNEX</li>
@@ -15,6 +15,8 @@
     <li>🎂 <strong>23</strong> - 2001</li>
   </ul>
 </div>
+
+<br><br>
 
 <!-- Badges em linha -->
 <p align="center">
@@ -29,7 +31,7 @@
 <hr>
 
 <!-- GitHub Stats side-by-side via table -->
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <img
