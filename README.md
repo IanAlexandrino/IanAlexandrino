@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E71DC&height=120&section=header"/>
 
-
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.herokuapp.com/?color=8E71DC&size=25&center=false&vCenter=true&width=1000&lines=Ian+Rodrigues+Alexandrino;Be+Welcome!+:%29"
@@ -29,17 +28,22 @@
 
 <hr>
 
-<!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 1rem; padding: 1rem 0;">
-  <img 
-    width="49%" height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=IanAlexandrino&show_icons=true&count_private=true&hide_border=true&title_color=8E71DC&icon_color=8E71DC&text_color=c9d1d9&bg_color=0d1117"
-    alt="Ian Alexandrino’s GitHub stats" /> 
-
-  <img 
-    width="41%" height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&hide_border=true&title_color=8E71DC&text_color=8E71DC&bg_color=0d1117"
-    alt="Top languages" />
-</div>
+<!-- GitHub Stats side-by-side via table -->
+<table align="center">
+  <tr>
+    <td>
+      <img
+        width="360"
+        src="https://github-readme-stats.vercel.app/api?username=IanAlexandrino&show_icons=true&count_private=true&hide_border=true&title_color=8E71DC&icon_color=8E71DC&text_color=c9d1d9&bg_color=0d1117"
+        alt="Ian Alexandrino’s GitHub stats" />
+    </td>
+    <td>
+      <img
+        width="360"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&hide_border=true&title_color=8E71DC&text_color=8E71DC&bg_color=0d1117"
+        alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E71DC&height=120&section=footer"/>
