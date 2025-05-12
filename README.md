@@ -19,7 +19,7 @@
 
 <!-- Badges em linha -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ianroda/">
+  <a href="https://www.linkedin.com/in/ian-rodrigues-alexandrino/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8E71DC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E71DC&color=ffffff" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ian.rodrigues.71465/">
@@ -37,7 +37,7 @@
     alt="Ian Alexandrino’s GitHub stats" /> 
 
   <img 
-    width="80%" height="195px"
+    width="49%" height="195px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&hide_border=true&title_color=8E71DC&text_color=8E71DC&bg_color=0d1117"
     alt="Top languages" />
 </div>
