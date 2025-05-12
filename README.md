@@ -37,7 +37,7 @@
     alt="Ian Alexandrino’s GitHub stats" /> 
 
   <img 
-    width="49%" height="195px"
+    width="41%" height="195px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanAlexandrino&layout=compact&hide_border=true&title_color=8E71DC&text_color=8E71DC&bg_color=0d1117"
     alt="Top languages" />
 </div>
